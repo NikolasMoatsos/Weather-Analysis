@@ -15,7 +15,7 @@ The data were obtained from two different sources:
 2. [*HELIX*, Hellenic Data Service](https://data.hellenicdataservice.gr/dataset/66e1c19a-7b0e-456f-b465-b301a1130e3f).
 
 ## Technologies
-The project was implemented with *Python 3.9* and with the help of some additional tools: 
+The project was implemented with *Python 3.9* and runs on *Jupyter Notebook*. Also includes the following packages: 
 * *Jupyter Notebook*
 * *pandas*
 * *NumPy*
