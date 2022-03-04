@@ -17,7 +17,7 @@ The data were obtained from two different sources:
 ## Technologies
 The project was implemented with *Python 3.9* and with the help of some additional tools: 
 * *Jupyter Notebook*
-* *Pandas*
-* *Numpy*
-* *Matplotlib*
+* *pandas*
+* *NumPy*
+* *matplotlib*
 
