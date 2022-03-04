@@ -16,7 +16,6 @@ The data were obtained from two different sources:
 
 ## Technologies
 The project was implemented with *Python 3.9* and runs on *Jupyter Notebook*. Also includes the following packages: 
-* *Jupyter Notebook*
 * *pandas*
 * *NumPy*
 * *matplotlib*
