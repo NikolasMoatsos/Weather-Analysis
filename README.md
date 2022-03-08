@@ -1,5 +1,5 @@
 # Weather-Analysis
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikolasMoatsos/Weather-Analysis/blob/master/weather_analysis.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikolasMoatsos/Weather-Analysis/blob/main/weather_analysis.ipynb)
 
 This project was implemented during the course "Applied Machine Learning", offered by the Department of Management Science & Technology of the Athens University of Economics and Business.
 
